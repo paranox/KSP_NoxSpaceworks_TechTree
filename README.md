@@ -1,4 +1,4 @@
-# KSP_TechTree_SpaceColonization
+# A Tech Tree for Kerbal Space Program
 Custom tech tree for my space-colonization-focused low-tech-start Kerbal Space Program career.
 
 ## Features
